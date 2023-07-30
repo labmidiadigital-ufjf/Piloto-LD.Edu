@@ -1,0 +1,1 @@
+O aplicativo LD.Edu é resultado de projeto de pesquisa e desenvolvimento da Universidade Federal de Juiz de Fora (UFJF), em convênio firmado com a Prefeitura Municipal de Lima Duarte, buscando o exercício de novas modalidades de ensino apoiadas por suporte digital  em dispositivos pessoais em comunicação por meio de rede descentralizada. 
